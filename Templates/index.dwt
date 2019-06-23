@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header  class="header">
+  <div class="logo"></div>
+  <nav class="nav">
+    <ul>
+      <li><a href="../index.html">首页</a></li>
+      <li><a href="../introduce.html">走进幼儿园</a></li>
+      <li><a href="../news.html">新闻动态</a></li>
+      <li><a href="#">园本课程</a></li>
+      <li><a href="../3">宝宝天地</a></li>
+      <li><a href="#">家园共育</a></li>
+    </ul>
+  </nav>
+</header>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<section class="content">
+  <div class="banner"></div>
+  <div>
+    <div class="content_left"> </div>
+    <div class="content_main"> </div>
+    <div class="content_right"> </div>
+  </div>
+</section>
+<!-- TemplateEndEditable -->
+<footer class="footer clear">
+  <nav class="footer_nav">
+  <ul>
+    <li><a href="#">加入我们</a></li>
+    <li><a href="#">新闻活动</a></li>
+    <li><a href="#">服务与合作</a></li>
+    <li><a href="#">在线预约</a></li>
+    <li><a href="#">课程特色</a></li></ul>
+  </nav>
+    <div class="footer_con">
+      <div class="footer_logo"></div>
+      <div class="footer_r">金苹果幼儿园 版权所有 Copyright©2008 All Rights Reserved<br />
+      电话：88273732 邮箱：zdyj@163.com</div>
+    </div>
+</footer>
+
+
+</body>
+</html>
